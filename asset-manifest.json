@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/carta200dias-andre/static/css/main.3bb4d757.css",
+    "main.css": "/carta200dias-andre/static/css/main.ea978d3b.css",
     "main.js": "/carta200dias-andre/static/js/main.9cc22725.js",
     "static/js/453.61e00607.chunk.js": "/carta200dias-andre/static/js/453.61e00607.chunk.js",
     "static/media/tulipan1.png": "/carta200dias-andre/static/media/tulipan1.5a4d5d46fd37db09d1f8.png",
     "index.html": "/carta200dias-andre/index.html",
-    "main.3bb4d757.css.map": "/carta200dias-andre/static/css/main.3bb4d757.css.map",
+    "main.ea978d3b.css.map": "/carta200dias-andre/static/css/main.ea978d3b.css.map",
     "main.9cc22725.js.map": "/carta200dias-andre/static/js/main.9cc22725.js.map",
     "453.61e00607.chunk.js.map": "/carta200dias-andre/static/js/453.61e00607.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bb4d757.css",
+    "static/css/main.ea978d3b.css",
     "static/js/main.9cc22725.js"
   ]
 }
